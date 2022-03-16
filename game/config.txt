@@ -44,4 +44,4 @@ win_bg_color FFFFFF
 win_border_color FFFFFF
 
 # color blind mode
-color_blind 1
+color_blind 0
